@@ -1,4 +1,4 @@
-## Olá! Me chamo Cauã Lincoln! 👋🏾
+## Olá! Me chamo Cauã!
 
 <div align="center">
   <a href="https://github.com/CauaLincoln">
